@@ -1,0 +1,31 @@
+.container-fluid{
+	padding: 0;
+
+}
+.banner{
+	width: 100%;
+	max-width: 100%;
+}
+.ban{
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+}
+.ban img{
+	width: 100%;
+	max-width: 100%;
+	height: 60%;
+}
+
+.nav{
+	height: 60px;
+	line-height: 40px;
+}
+.inner-banner{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+
+
+}
